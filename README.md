@@ -14,6 +14,7 @@
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/discover.nischal)
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/niiischall)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/nischal-nikit)
+[<img align="left" alt="Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg"/>](https://devcrumbs.hashnode.dev/) 
 
 </br>
 
@@ -30,16 +31,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 </br>
+
+### I'm working on [this](https://github.com/nischalNikit/Shopify) project currently:
+
+![Output sample](https://github.com/nischalNikit/Shopify/blob/main/assets/Shopify-android-gif.gif)
+
 </br>
 
 <details align="left">
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nischalNikit&show_icons=true&hide_border=true"/>
 </details>
-
-</br>
-
-### I'm working on [this](https://github.com/nischalNikit/Shopify) project currently:
-
-![Output sample](https://github.com/nischalNikit/Shopify/blob/main/assets/Shopify-android-gif.gif)
 
