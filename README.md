@@ -36,3 +36,10 @@
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nischalNikit&show_icons=true&hide_border=true"/>
 </details>
+
+</br>
+
+### I'm working on [this](https://github.com/nischalNikit/Shopify) project currently:
+
+![Output sample](https://github.com/nischalNikit/Shopify/blob/main/assets/Shopify-android-gif.gif)
+
