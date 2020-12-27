@@ -1,6 +1,6 @@
 ### Hi there, I'm Nischal. 👋
 
-## I'm a CS Student and a Professional Developer.
+## I'm a CS Undergrad and a Front End Developer.
 
 - 🔭 I'm looking for exciting roles in front end development.
 - 👔 I recently finished a 6-months long internship as a front end dev at [Litmusblox](https://litmusblox.io/).
