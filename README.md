@@ -3,7 +3,7 @@
 ## I'm a CS Undergrad and a Front End Developer.
 
 - 👔 I currently work at [GeekyAnts](https://geekyants.com/).
-- 🌱 I'm currently deep into learning React Native for android/iOS app development.
+- 🌱 I'm deep into learning React Native for android/iOS app development.
 - 👯 I’m looking to collaborate and learn with other developers.
 - 🥅 2021 Goals: start contributing to Open Source projects!
 - ⚡ Fun fact: I once lost $100 in a bet on my favorite football team. I still support that team.
