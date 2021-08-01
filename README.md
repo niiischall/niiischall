@@ -1,11 +1,11 @@
 ### Hi there, I'm Nischal. 👋
 
-## I'm a CS Undergrad and a Front End Developer.
+## 23 | (he/him).
 
-- 👔 I currently work at [GeekyAnts](https://geekyants.com/).
-- 🌱 I'm deep into learning React Native for android/iOS app development.
+- 👔 I currently work as an SDE at [GeekyAnts](https://geekyants.com/).
+- 🌱 I'm deep into learning NextJS, React, React Native for building things for the web/mobile.
 - 👯 I’m looking to collaborate and learn with other developers.
-- 🥅 2021 Goals: start contributing to Open Source projects!
+- 🥅 2021 Goals: start contributing more to Open Source projects!
 - ⚡ Fun fact: I once lost $100 in a bet on my favorite football team. I still support that team.
 
 ### Connect with me:
