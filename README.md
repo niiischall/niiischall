@@ -1,3 +1,6 @@
+![michael.gif](https://raw.githubusercontent.com/niiischall/niiischall/master/michael.gif)
+
+
 ### Hi there, I'm Nischal. 👋
 
 ## 23 | (he/him).
