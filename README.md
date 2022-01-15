@@ -3,9 +3,9 @@
 ## 23 | (he/him).
 
 - 👔 I currently work as an SDE at [GeekyAnts](https://geekyants.com/).
-- 🌱 I'm deep into learning NextJS, React, React Native for building things for the web/mobile.
+- 🌱 I'm deep into learning Web3, DApps, DAO.
 - 👯 I’m looking to collaborate and learn with other developers.
-- 🥅 2021 Goals: start contributing more to Open Source projects!
+- 🥅 2022 Goals: Build more decentralized apps!
 - ⚡ Fun fact: I once lost $100 in a bet on my favorite football team. I still support that team.
 
 ### Connect with me:
@@ -33,8 +33,4 @@
 
 </br>
 
-<details align="left">
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nischalNikit&show_icons=true&hide_border=true"/>
-</details>
 
