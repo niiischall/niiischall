@@ -5,7 +5,7 @@
 
 ## 23 | (he/him).
 
-- 👔 I currently work as an SDE at [GeekyAnts](https://geekyants.com/).
+- 👔 I currently work as an SDE at [Jupiter](https://jupiter.money/).
 - 🌱 I'm deep into learning Web3, DApps, DAO.
 - 👯 I’m looking to collaborate and learn with other developers.
 - 🥅 2022 Goals: Build more decentralized apps!
