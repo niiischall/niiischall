@@ -3,12 +3,12 @@
 
 ### Hi there, I'm Nischal. 👋
 
-## 23 | (he/him).
+## 24 | (he/him).
 
 - 👔 I currently work as an SDE at [Jupiter](https://jupiter.money/).
-- 🌱 I'm deep into learning Web3, DApps, DAO.
+- 🌱 I'm deep into mobile dev currently, more precisely, flutter.
 - 👯 I’m looking to collaborate and learn with other developers.
-- 🥅 2022 Goals: Build more decentralized apps!
+- 🥅 2023 Goals: Build more with flutter ecosystem!
 - ⚡ Fun fact: I once lost $100 in a bet on my favorite football team. I still support that team.
 
 ### Connect with me:
