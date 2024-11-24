@@ -5,7 +5,7 @@
 
 ## 26 | (he/him).
 
-- 👔 I currently work as an SDE at [Acko](https://www.acko.com/).
+- 👔 I currently work as a UI Engineer-II at [Acko](https://www.acko.com/).
 - 🌱 I'm deep into mobile dev currently, more precisely, Web perf.
 - 👯 I’m looking to collaborate and learn with other developers.
 - 🥅 2025 Goals: Build more with Web!
