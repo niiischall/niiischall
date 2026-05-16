@@ -8,7 +8,7 @@
 - 👔 I currently work as a UI Engineer-II at [Acko](https://www.acko.com/).
 - 🌱 I'm deep into mobile dev currently, more precisely, AI with web.
 - 👯 I’m looking to collaborate and learn with other developers.
-- 🥅 2025 Goals: Build more with A9!
+- 🥅 2026 Goals: Build more with AI!
 - ⚡ Fun fact: I once lost $100 in a bet on my favorite football team. I still support that team.
 
 ### Connect with me:
