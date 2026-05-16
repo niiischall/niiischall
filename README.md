@@ -5,7 +5,7 @@
 
 ## 28 | (he/him).
 
-- 👔 I currently work as a UI Engineer-II at [Acko](https://www.acko.com/).
+- 👔 I currently work as a Software Development Engineer-II(UI) at [Acko](https://www.acko.com/).
 - 🌱 I'm deep into mobile dev currently, more precisely, AI with web.
 - 👯 I’m looking to collaborate and learn with other developers.
 - 🥅 2026 Goals: Build more with AI!
