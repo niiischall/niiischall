@@ -1,39 +1,28 @@
-![michael.gif](https://raw.githubusercontent.com/niiischall/niiischall/master/michael.gif)
+# 👋 Hello World
 
+Product Engineer with 5 years of experience building products across fintech, insurance-tech, and prop-tech.
 
-### Hi there, I'm Nischal. 👋
+Currently @ Acko Insurance.
 
-## 28 | (he/him).
+Past @ Jupiter Money, GeekyAnts.
 
-- 👔 I currently work as a Software Development Engineer-II(UI) at [Acko](https://www.acko.com/).
-- 🌱 I'm deep into mobile dev currently, more precisely, AI with web.
-- 👯 I’m looking to collaborate and learn with other developers.
-- 🥅 2026 Goals: Build more with AI!
-- ⚡ Fun fact: I once lost $100 in a bet on my favorite football team. I still support that team.
+I enjoy building reliable software, solving user problems, and exploring how systems work under the hood.
 
-### Connect with me:
+Lately, I've been spending time on AI-native development, agentic workflows, and modern web architectures.
 
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/discover.nischal)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/niiischall)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/nischal-nikit)
-[<img align="left" alt="Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg"/>](https://hashnode.com/@niiischalll/) 
+Here's my latest blogs:
 
-</br>
+- [Mastering React Server Components](https://blog.nischalnikit.xyz/posts/mastering-react-server-components)
+- [Building Your Own LLM Agent From Scratch](https://blog.nischalnikit.xyz/posts/building-your-own-llm-agent-from-scratch)
 
-### Languages and Tools:
+🌐 Website: https://www.nischalnikit.xyz
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+Interested in:
+- Product Engineering
+- React & Next.js
+- AI & LLM Applications
+- Backend Systems
+- Developer Tooling
 
-</br>
-
-</br>
-
+Always learning. Always building.
 
