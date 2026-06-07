@@ -2,9 +2,9 @@
 
 Product Engineer with 5 years of experience building products across fintech, insurance-tech, and prop-tech.
 
-Currently @ Acko Insurance.
+Currently [Acko Insurance](https://www.acko.com).
 
-Past @ Jupiter Money, GeekyAnts.
+Past at [Jupiter Money](https://jupiter.money), [GeekyAnts](https://geekyants.com).
 
 I enjoy building reliable software, solving user problems, and exploring how systems work under the hood.
 
