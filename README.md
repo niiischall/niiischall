@@ -24,5 +24,5 @@ Interested in:
 - Backend Systems
 - Developer Tooling
 
-Always learning. Always building.
+![Profile Views](https://komarev.com/ghpvc/?username=niiischall&label=Profile%20views&color=39FF14&style=flat)
 
