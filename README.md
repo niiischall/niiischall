@@ -10,10 +10,9 @@ I enjoy building reliable software, solving user problems, and exploring how sys
 
 Lately, I've been spending time on AI-native development, agentic workflows, and modern web architectures.
 
-Here's my latest blogs:
+Here's my latest published blog:
 
 - [Mastering React Server Components](https://blog.nischalnikit.xyz/posts/mastering-react-server-components)
-- [Building Your Own LLM Agent From Scratch](https://blog.nischalnikit.xyz/posts/building-your-own-llm-agent-from-scratch)
 
 🌐 Website: https://www.nischalnikit.xyz
 
