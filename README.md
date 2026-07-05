@@ -10,9 +10,8 @@ I enjoy building reliable software, solving user problems, and exploring how sys
 
 Lately, I've been spending time on AI-native development, agentic workflows, and modern web architectures.
 
-Here's my latest published blog:
-
-- [Mastering React Server Components](https://blog.nischalnikit.xyz/posts/mastering-react-server-components)
+My latest published blog: [Mastering React Server Components](https://blog.nischalnikit.xyz/posts/mastering-react-server-components)
+My latest hobby project: [CryptoBase](https://crypto-base-landing-page.vercel.app/)
 
 🌐 Website: https://www.nischalnikit.xyz
 
